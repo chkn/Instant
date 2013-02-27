@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<Addin namespace   = "Instant.XamarinStudio"
+       id          = "Instant"
+       name        = "Instant"
+       author      = "Alex Corrado"
+       copyright   = "Apache2"
+       url         = "http://github.com/ermau/Instant"
+       description = "Visualize all the things."
+       category    = "Source Editor Extensions"
+       version     = "1.0">
+
+    <Dependencies>
+        <Addin id="::MonoDevelop.Ide" version="4.0"/>
+    </Dependencies>
+
+
+</Addin>
